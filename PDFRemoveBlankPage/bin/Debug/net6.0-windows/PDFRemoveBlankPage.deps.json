@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PDFRemoveBlankPage/1.0.0": {
+        "dependencies": {
+          "Spire.License": "1.3.8.320",
+          "Spire.Pdf": "7.1.10.0"
+        },
+        "runtime": {
+          "PDFRemoveBlankPage.dll": {}
+        }
+      },
+      "Spire.License/1.3.8.320": {
+        "runtime": {
+          "Spire.License.dll": {
+            "assemblyVersion": "1.3.8.320",
+            "fileVersion": "1.3.8.320"
+          }
+        }
+      },
+      "Spire.Pdf/7.1.10.0": {
+        "runtime": {
+          "Spire.Pdf.dll": {
+            "assemblyVersion": "7.1.10.0",
+            "fileVersion": "7.1.10.2350"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PDFRemoveBlankPage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spire.License/1.3.8.320": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spire.Pdf/7.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
